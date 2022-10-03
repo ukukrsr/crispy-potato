@@ -1,0 +1,4 @@
+<?php
+	print"Bruh Moment";
+
+?>
